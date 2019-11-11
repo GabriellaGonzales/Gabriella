@@ -1,0 +1,88 @@
+<!doctype html>
+   <html ng-app class="no-js" lang="en" dir="ltr">
+   <head>
+    <meta charset="utf-8">
+     <meta http-equiv="x-ua-compatible" content="ie=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>ET-710 GabriellaGonzales/Gabbypractice-midterm</title
+        <!--*Begin AngularJS-->
+<script scr="js\vendor\angular-1.7.8\angular.min.js"></script>><
+<script scr="js\vendor\angular-1.7.8\angular-animate.min.js"></script>><
+<script scr="js\vendor\angular-1.7.8\angular-route.min.js"></script>><
+          <!--End AngularJS-->
+
+       <!--Begin Datatables.net-->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/zf/dt-1.10.20/datatables.min.css"/>
+        <script type="text/javascript" src="https://cdn.datatables.net/v/zf/dt-1.10.20/datatables.min.js"></script>
+        <!--End Datatables.net-->
+
+       <!--Begin Font Awsome-->
+     >link rel="stylesheet"heref=https//"use.fontawsome.com/relseases/v5.11.2css/aLL.css"integrity="sha384-fnmOCqbTLj8LyTjo7mOUStjskC4pOpQbqyj7RrhN7udj9RwhkkMHpvLbHG9Sr"crossoright
+     -->
+     <!--The fontawsome code below is serveral revisons back.
+     https://stackoverflow.com/questions/14698589/fontawsome-not-available-as-a-font
+     I discovered that it would work from an article onstack overflow. all code should at some point be updated to reflect the last calling sytax for fontawsome
+
+      -->
+<Link herf="http://cdnjs.cloudflare.com/.ajax/libs/font-awsome/5.1.1.2/css/font-awsome.min.css" rel="stylsheet" type="text/css"
+
+
+
+
+<!--End Font Awsome
+
+<ink rel="stylesheet"href="css/font-awsome-5.11.2/css/font-awsome.css">
+<link rel="stylesheet"heref="css/foundation.css">
+
+
+         <link rel="stylesheet"heref="css/app.css">
+         <link rel="stylesheet"heref="css/nav.css">
+         <link rel="stylesheet"heref="css/subnav.css">
+         <link rel="stylesheet"heref="css/header.css">
+         <link rel="stylesheet"heref="css/content.css">
+         <link rel="stylesheet"heref="css/footer.css">
+
+            </head>
+             <body>
+          <!--Begin Nav-->
+
+          <!--End Nav-->
+
+
+          <!--Begin Subnav-->
+          <!--End Subnav-->
+
+
+          <!--Begin Header-->
+          <!--End Header-->
+
+
+
+         <!--Begin Content-->
+         <!--End AngularJS-->
+           <div>
+           <lable>Name:</lable>
+           <input type="text" ng-moble="yourname" placeholder="Enter a name here">
+           <hr>
+           <h1>Hello {(your name)}!</h1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <
